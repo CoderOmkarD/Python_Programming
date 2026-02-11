@@ -1,0 +1,7 @@
+Learning programming can be a marvellous experience when
+concepts start making sense. Writing your first working program 
+feels marvellous, especially after debugging errors on your own.
+With consistent practice, the progress you see is truly marvellous, 
+and the confidence you gain from solving problems is nothing short of marvellous.
+Many developers describe their journey as difficult at first, but ultimately marvellous
+once fundamentals become clear.
